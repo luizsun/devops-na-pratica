@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 
-app = FastAPI(title="Teste DevOps")
+app = FastAPI(title="devops na pratica")
 
 
 @app.get("/")
